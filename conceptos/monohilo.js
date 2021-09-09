@@ -6,6 +6,7 @@ setInterval(() => {
     i++;
 
     if (i=== 5){
-        var a = 6 + z
+        //var a = 6 + z
     }
 }, 1000)
+//Test de donemon
