@@ -5,7 +5,6 @@ gulp.task('build', (cb) => {
 	console.log('Construyendo el sitio');
 	setTimeout(cb, 1200);
 });
-s;
 
 gulp.task('serve', () => {
 	gulp
